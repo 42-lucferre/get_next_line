@@ -60,8 +60,6 @@ git clone https://https://github.com/42-lucferre/get_next_line.git get_next_line
 
 ### Command lines
 
-
-
 To use the function, compile with:
 
 ```bash

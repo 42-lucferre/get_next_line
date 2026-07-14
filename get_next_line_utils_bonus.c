@@ -6,7 +6,7 @@
 /*   By: lucferre <lucferre@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/07/11 03:07:55 by lucferre          #+#    #+#             */
-/*   Updated: 2026/07/11 21:12:22 by lucferre         ###   ########.fr       */
+/*   Updated: 2026/07/13 22:12:20 by lucferre         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -119,7 +119,3 @@ char	*extract_line(char *acc, char *line)
 	new_acc[c] = '\0';
 	return (new_acc);
 }
-
-// 1234\n
-// 56789\n
-// 10 11 12\0
